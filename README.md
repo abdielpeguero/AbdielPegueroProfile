@@ -6,6 +6,7 @@ With over five years of experience as a Product Designer, I’ve dedicated my wo
 * 🌍  Based in LATAM
 * ✉️  You can contact me at [proyectoapeguero@gmail.com](mailto:proyectoapeguero@gmail.com)
 * 🧠  Learning vibe-coded websites, real mobile apps, and product & business design strategy.
+* Check out my website <a href="https://www.abdielpeguero.com/" target="_blank" rel="noreferrer">abdielpeguero.com</a>
 
 ### My Skills
 
